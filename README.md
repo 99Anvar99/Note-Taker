@@ -16,6 +16,10 @@
 ## Usage
 - To run the application locally, open your command line interface (CLI) and enter `node server.js`. Then, open your preferred web browser and visit `http://localhost:3000`.
 
+## Screenshots
+![image](https://github.com/99Anvar99/Note-Taker/assets/60616540/d393bffa-b5eb-43d0-92c6-1c4636cee666)
+![image](https://github.com/99Anvar99/Note-Taker/assets/60616540/1c720164-8168-48e4-9ab2-7c849c3e7576)
+
 # Author
 - [99Anvar99](https://github.com/99Anvar99)
 
